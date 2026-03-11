@@ -1,0 +1,7 @@
+{
+  "name": "retrypp",
+  "version": "1.0.0",
+  "description": "RetryPP is a C++ 20, header-only retry generalization library.",
+  "homepage": "https://github.com/tbarnekov/RetryPP",
+  "license": "MIT"
+}
